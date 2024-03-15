@@ -1,3 +1,4 @@
+**KINDLY RELOAD THE WEB PAGE FOR CLEAR NAVIGATION AND FOR NOT OCCURING ANY FURTHER ISSUES IN PROJECT**
 ERP System Frontend
 
 This project is a simplified interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. 
